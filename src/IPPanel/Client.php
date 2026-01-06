@@ -34,7 +34,7 @@ class Client
     /**
      * Default base URL for the API
      */
-    const DEFAULT_BASE_URL = 'https://edge.ippanel.com/v1/api';
+    const DEFAULT_BASE_URL = 'https://sms.omidrajabee.ir/v1/api';
 
     /**
      * Create a new IPPanel Client instance.
