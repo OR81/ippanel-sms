@@ -7,7 +7,7 @@ A Laravel package for integrating with the IPPanel SMS API.
 You can install the package via composer:
 
 ```bash
-composer require ippanel/laravel-sdk
+composer require OR81/ippanel-sms
 ```
 
 ### Laravel without auto-discovery
