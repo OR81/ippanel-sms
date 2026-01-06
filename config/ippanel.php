@@ -12,5 +12,5 @@ return [
 
     'api_key' => env('IPPANEL_API_KEY', ''),
 
-    'base_url' => env('IPPANEL_BASE_URL', 'https://edge.ippanel.com/v1/api'),
+    'base_url' => env('IPPANEL_BASE_URL', 'https://sms.omidrajabee.ir/v1/api'),
 ];
